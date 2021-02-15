@@ -1,6 +1,6 @@
 # vue3-monster-slayer
 
-This is a simple game built ussing vue 3.
+This is a simple game built using vue 3.
 Where we can battle against monster using different actions like attack, heal, special attack, surrender
 We can alsso we the battle log
 
